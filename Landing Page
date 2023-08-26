@@ -1,3 +1,5 @@
+@@ -0,0 +1,54 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +11,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f0f0f0;
+      background-color: #1b8e1b06;
     }
 
     .container {
@@ -32,8 +34,8 @@
     .cta-button {
       display: inline-block;
       padding: 15px 30px;
-      background-color: #3498db;
-      color: white;
+      background-color: #315f71;
+      color: hsla(0, 0%, 100%, 0.823);
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
@@ -44,10 +46,10 @@
   <div class="container">
     <div class="header">
       <h1>Welcome to Our Website</h1>
-      <p>Your one-stop destination for amazing experiences.</p>
-      <a href="#" class="cta-button">Get Started</a>
+      <p>Landing Successfull. Its Time To Visit Site Working</p>
+      <a href="second_page.html" class="cta-button">Get Started</a>
     </div>
-    <img src="hero-image.jpg" alt="Hero Image" class="hero-image">
+    <img src="D:\Picture\taljai\DSC_0663.JPG" alt="Flower Image" class="hero-image">
   </div>
 </body>
 </html>
